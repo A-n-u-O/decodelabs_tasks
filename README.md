@@ -88,22 +88,28 @@ decodelabs_tasks/
 ├── project-2-crud-api/
 ├── project-3-auth-system/
 └── project-4-third-party-api/
+```
 
 Each project contains its own README and setup instructions.
-What I Learned
+
+### What I Learned
 These projects helped me build a stronger understanding of backend development, including:
-Designing REST APIs
-Structuring Express applications
-Working with relational databases
-Managing persistent application data
-Implementing secure authentication
-Protecting routes with middleware
-Integrating external APIs
-Handling errors and edge cases
-Managing environment variables securely
-Testing APIs with Postman
-Author
+- Designing REST APIs
+- Structuring Express applications
+- Working with relational databases
+- Managing persistent application data
+- Implementing secure authentication
+- Protecting routes with middleware
+- Integrating external APIs
+- Handling errors and edge cases
+- Managing environment variables securely
+- Testing APIs with Postman
+  
+### Author
 Anuoluwapo Victor
+
 Portfolio: https://anuvictor.vercel.app/
+
 LinkedIn: https://www.linkedin.com/in/a-n-u-o/
+
 GitHub: https://github.com/A-n-u-O
